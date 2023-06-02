@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854117481642",
+    "project_id": "flutter-uiux-93c6c",
+    "storage_bucket": "flutter-uiux-93c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854117481642:android:78231856b5f1e6d10564d3",
+        "android_client_info": {
+          "package_name": "com.example.traveldiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRXS5CfFm4zLirmLv0d5e4lafVS7jlek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
